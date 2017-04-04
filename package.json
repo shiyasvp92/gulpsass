@@ -1,11 +1,24 @@
 {
-"devDependencies": {
-  "gulp": "latest",
-  "gulp-util": "latest",
-  "gulp-sass": "latest",
-  "gulp-coffee": "latest",
-  "gulp-uglify": "latest",
-  "gulp-concat": "latest",
-  "gulp-connect": "latest"
+  "name": "UI training",
+  "version": "1.0.0",
+  "description": "Learning to work with gulp, sass and tasks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyasvp92/gulpsass.git"
+  },
+  "author": "Shiyas",
+  "license": "ISC",
+  "homepage": "https://github.com/shiyasvp92/gulpsass/",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest"
   }
 }

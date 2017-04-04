@@ -1,0 +1,2 @@
+var cube,square;square=function(e){return e*e},cube=function(e){return square(e)*e},console.log("Hello World from CoffeeScript");
+function shiyas(o){console.log("ok?")}console.log("shiyas"),console.log("Hello World from Main Javascript");

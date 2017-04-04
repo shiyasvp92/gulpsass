@@ -7,3 +7,19 @@ $primary-color: #A37;
 h1 { 
 	text-align: center;
  }
+
+p {
+	border-radius: 5px;
+	color : brown;
+}
+
+a {
+  transition: transform 1s
+}
+
+body {
+    opacity: .5;
+    box-sizing: border-box;
+    transform: scale(.5);
+    display: flex;
+}
